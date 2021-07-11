@@ -1,0 +1,12 @@
+numpy
+pandas
+spotipy
+tqdm
+nltk
+scipy
+sparqlwrapper
+matplotlib
+networkx
+musicbrainzngs
+pymongo
+beautifulsoup4

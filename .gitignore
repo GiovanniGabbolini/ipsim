@@ -1,0 +1,10 @@
+*.ipynb
+*.json
+*.bin
+*.png
+
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+html/
+res/
